@@ -39,7 +39,6 @@
 ## 📊 Stats
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=AmaFR&show_icons=true&theme=radical&hide_title=true&bg_color=0D1117&title_color=58A6FF&text_color=9fadc3&icon_color=58A6FF" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=AmaFR&theme=radical&background=0D1117&ring=58A6FF&currStreakLabel=58A6FF" />
 </p>
 
 ---
