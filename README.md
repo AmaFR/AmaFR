@@ -34,27 +34,6 @@
   <img src="https://img.shields.io/badge/MySQL-0b0b0b?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
----
-
-## 📊 Stats
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AmaFR&show_icons=true&theme=radical&hide_title=true&bg_color=0D1117&title_color=58A6FF&text_color=9fadc3&icon_color=58A6FF" />
-</p>
-
----
-
-## 🤝 Me contacter
-<p align="center">
-  <a href="soon">
-    <img src="https://img.shields.io/badge/📩-Email-0d0d0d?style=for-the-badge" />
-  </a>
-  <a href="https://discord.gg/AmaFR">
-    <img src="https://img.shields.io/badge/💬-Discord-0d0d0d?style=for-the-badge" />
-  </a>
-</p>
-
----
-
 <p align="center">
   <sub> © AmaFR</sub>
 </p>
